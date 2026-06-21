@@ -1,6 +1,6 @@
 # Next.js Streaming Dashboard
 
-Nom et prénom de l’élève : Ryan Salles
+Nom et prénom de l’élève : Lopes François-Alexian
 
 ## Objectif
 
